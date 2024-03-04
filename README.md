@@ -9,6 +9,7 @@ Köln, 14.03.2024
 
 Dieses Repository beinhaltet folgende Dateien:
 * Einsatzdokumentation 2018 bis 2023 - *Auswertung_2018-2023.xlsx*
+* Abgleich-Liste über die Zuordnung der Einsatzstichworte zu Notfallrettung / Sonstiges - *Anhang-1_Zuordnung_Einsatzstichworte.csv*
 * R-Skript für die Aufbereitung der Einsatzdaten - *01_datenaufbereitung.R*
 * Zeitreihe nach der Datenaufbereitung - *Einsatzzeitreihe_Notfallrettung_LSTM.csv*
 * Erzeugter Testdatensatz für die Identifikation von Ausreißern - *Testdatensatz_Anomalien.csv*

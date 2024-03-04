@@ -14,3 +14,4 @@ Dieses Repository beinhaltet folgende Dateien:
 * Zeitreihe nach der Datenaufbereitung - *Einsatzzeitreihe_Notfallrettung_LSTM.csv*
 * Erzeugter Testdatensatz für die Identifikation von Ausreißern - *Testdatensatz_Anomalien.csv*
 * Python Jupyter Notebook mit LSTM-Modell und Identifkation der Ausreißer - *LSTM_SZYPRONS_Bachelorarbeit.ipynb*
+* html-Dokument des Notebooks - *LSTM_SZYPRONS_Bachelorarbeit.html*
